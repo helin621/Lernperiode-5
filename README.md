@@ -1,7 +1,7 @@
 # Lernperiode-5
 
-- Name: Helin Coban
-- Zeitraum: 14.08.2026 bis 18.09.2026
+Name: Helin Coban
+Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
 In dieser Lernperiode möchte ich meine offenen Informatik-Aufgaben bearbeiten und die Themen, bei denen ich noch unsicher bin besser verstehen. Ich möchte meine Zeit im Lernatelier sinnvoll nutzen und jede Woche etwas vorankommen. Ausserdem möchte ich an einem kleinen Informatik-Projekt arbeiten und dabei meine Programmierkenntnisse verbessern. Am Ende der Lernperiode möchte ich möglichst alle geplanten Aufgaben erledigt haben und bei den behandelten Themen sicherer sein.
