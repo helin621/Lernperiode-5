@@ -27,6 +27,6 @@ Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Danach möchte i
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Offene Aufgaben aus den Informatik-Modulen beenden
-- [ ] 
-- [ ] 
+- [ ] ...
+- [ ] ...
 
