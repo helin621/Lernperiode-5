@@ -28,7 +28,7 @@ Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten könn
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Offene Aufgaben aus den Informatik-Modulen beenden
+- [x] Offene Aufgaben aus den Informatik-Modulen beenden
 - [ ] ...
 - [ ] ...
 
@@ -36,9 +36,11 @@ Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten könn
 Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Das sind dann Beispielweise noch die Aufträge vom Modul 320 das Video und alles fertig bringen. Beim Modul vom Herr Meyer müsste ich noch das Kapitel 1 abschliessen.
 ## Reflexion 21.08.2026
 Heute habe ich im Modul 320 an den Aufträgen arbeiten können zusammen mit Edim wir hatten zwar bisschen Komplikationen aber dann ging das dann auch wieder. Ich konnte meine Aufträge gut erledigen habe zwar noch bisschen zutun Beispiel noch das Video beenden und so weiter. Ich konnte heute sehr effektiv arbeiten ich konnte, ich konnte zwar noch nicht alles abgeben aber dennoch das meiste erledigen.
-### Planung 21.08.2026
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Offene Aufgaben aus den Informatik-Modulen beenden
 - [ ] Informatik Projekt finden
 - [ ] ...
+## Tagesplanungen 28.08.2026
+Ich möchte die Aufgaben die noch offen sind von meinen Modul fertigstellen. Und dann eine Idee für mein Projekt finden was ich so machen könnte.
