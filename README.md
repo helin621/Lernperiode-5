@@ -24,7 +24,7 @@ Ich möchte meine Lernzeit besser nutzen und mich während der Arbeitszeit wenig
 ## Tagesplanungen 14.08.2026
 Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Danach möchte ich nach einer Idee für mein kleines Informatik-Projekt recherchieren
 ## Reflexion 14.08.2026
-Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten können. Habe dann auch noch mit Edim die neuen Bildschirme getestet. Wir sind dann zum Entschluss gekommen den Phillips zu nehmen.
+Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten können. Habe dann auch noch mit Edim die neuen Bildschirme getestet. Wir sind dann zum Entschluss gekommen den Phillips zu nehmen. Generell finde ich das ich sehr konzentriert arbeiten konnte mal wieder habe ich mich mit den anderen ausgetauscht aber sonst im Grossen und konnte ich das was ich geplant habe gut erledigen
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
@@ -34,3 +34,11 @@ Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten könn
 
 ## Tagesplanungen 21.08.2026
 Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Das sind dann Beispielweise noch die Aufträge vom Modul 320 das Video und alles fertig bringen. Beim Modul vom Herr Meyer müsste ich noch das Kapitel 1 abschliessen.
+## Reflexion 21.08.2026
+Heute habe ich im Modul 320 an den Aufträgen arbeiten können zusammen mit Edim wir hatten zwar bisschen Komplikationen aber dann ging das dann auch wieder. Ich konnte meine Aufträge gut erledigen habe zwar noch bisschen zutun Beispiel noch das Video beenden und so weiter. Ich konnte heute sehr effektiv arbeiten ich konnte, ich konnte zwar noch nicht alles abgeben aber dennoch das meiste erledigen.
+### Planung 21.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Offene Aufgaben aus den Informatik-Modulen beenden
+- [ ] Informatik Projekt finden
+- [ ] ...
