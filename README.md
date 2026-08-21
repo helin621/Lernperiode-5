@@ -4,7 +4,7 @@ Name: Helin Coban
 Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
-In dieser Lernperiode möchte ich meine offenen Informatik-Aufgaben bearbeiten und die Themen, bei denen ich noch unsicher bin besser verstehen. Ich möchte meine Zeit im Lernatelier sinnvoll nutzen und jede Woche etwas vorankommen. Ausserdem möchte ich an einem kleinen Informatik-Projekt arbeiten und dabei meine Programmierkenntnisse verbessern. Am Ende der Lernperiode möchte ich möglichst alle geplanten Aufgaben erledigt haben und bei den behandelten Themen sicherer sein.
+In dieser Lernperiode möchte ich meine offenen Informatik-Aufgaben bearbeiten und die Themen, bei denen ich noch unsicher bin besser verstehen. Ich möchte meine Zeit im Lernatelier sinnvoll nutzen und jede Woche etwas vorankommen. Am Ende der Lernperiode möchte ich möglichst alle geplanten Aufgaben erledigt haben und bei den behandelten Themen sicherer sein.
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Bei meinen Noten bin ich teilweise zufrieden, aber es gibt noch Bereiche, in denen ich mich verbessern möchte. Besonders wichtig ist mir, dass ich bei den Informatik-Modulen den Stoff besser verstehe und nicht nur kurz vor Prüfungen lerne. Bei Themen, bei denen ich noch unsicher bin möchte ich gezielt üben und Fragen stellen.
@@ -21,8 +21,10 @@ Ich möchte pro Lernatelier mindestens 2–3 Aufgaben erledigen.
 Ich möchte bei schwierigen Themen zuerst selbst versuchen, eine Lösung zu finden und danach Hilfe holen, wenn ich nicht weiterkomme.
 Ich möchte meine Programmierkenntnisse verbessern und mindestens ein kleines eigenes Projekt fertigstellen.
 Ich möchte meine Lernzeit besser nutzen und mich während der Arbeitszeit weniger ablenken lassen.
-## Tagesplanungen
+## Tagesplanungen 14.08.2026
 Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Danach möchte ich nach einer Idee für mein kleines Informatik-Projekt recherchieren
+## Reflexion 14.08.2026
+Heute habe ich sehr gut an meinen noch zu erledigenden Aufträgen arbeiten können. Habe dann auch noch mit Edim die neuen Bildschirme getestet. Wir sind dann zum Entschluss gekommen den Phillips zu nehmen.
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
@@ -30,3 +32,5 @@ Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Danach möchte i
 - [ ] ...
 - [ ] ...
 
+## Tagesplanungen 21.08.2026
+Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Das sind dann Beispielweise noch die Aufträge vom Modul 320 das Video und alles fertig bringen. Beim Modul vom Herr Meyer müsste ich noch das Kapitel 1 abschliessen.
