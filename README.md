@@ -42,5 +42,45 @@ Heute habe ich im Modul 320 an den Aufträgen arbeiten können zusammen mit Edim
 - [ ] Offene Aufgaben aus den Informatik-Modulen beenden
 - [ ] Informatik Projekt finden
 - [ ] ...
+
 ## Tagesplanungen 28.08.2026
-Ich möchte die Aufgaben die noch offen sind von meinen Modul fertigstellen. Und dann eine Idee für mein Projekt finden was ich so machen könnte.
+Heute möchte ich zuerst meine noch offenen Aufgaben erledigen. Das sind dann Beispielweise noch die Aufträge vom Modul 320 das Video und alles fertig bringen. Beim Modul vom Herr Meyer müsste ich noch das Kapitel 1 abschliessen.
+## Reflexion 28.08.2026
+Heute habe ich im Modul 320 an den Aufträgen arbeiten können zusammen mit Edim wir hatten zwar bisschen Komplikationen aber dann ging das dann auch wieder. Ich konnte meine Aufträge gut erledigen habe zwar noch bisschen zutun Beispiel noch das Video beenden und so weiter. Ich konnte heute sehr effektiv arbeiten ich konnte, ich konnte zwar noch nicht alles abgeben aber dennoch das meiste erledigen.
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Offene Aufgaben aus den Informatik-Modulen beenden
+- [ ] Informatik Projekt finden
+- [ ] ...
+
+
+## Tagesplanungen 04.09.2026
+Ich möchte die Aufgaben die noch offen sind vom Modul 322 fertigstellen. Und dann eine Idee für ein Projekt finden was ich so machen könnte.
+## Reflexion 04.09.2026
+Ich habe heute am LoFi und HighFi vom Modul 322 gearbeitet dabei habe ich gelernt wie ein Prototyp einer Webseite anfangs aussieht. Ich habe selbst das zur Aufgabe passende LoFi gemacht und dabei gemerkt das es je nachdem wenn man es ordentlich und sauber will das dass schon bisschen Zeit in Anspruch nimmt. Ich habe dann als ich den Lofi Prototypen fertigerstellt hatte mich an das HighFi gemacht bei dem ich aber nicht mit fertig geworden bin. Heute konnte ich insgesamt gut Arbeiten. Auch wenn ich mich mal ab und zu in einem Gespräch mit Zeenia und Edim gefunden habe. Ich habe aber relativ schnell gemerkt beim erstellen der Prototypen das man sich konzentrieren muss da sonst das ganze ewig dauert. Ich fand auch das ich im Modul weitergekommen bin da ich diese Aufgabe im Unterricht nicht fertig brachte. Heute war ich recht zufrieden mit meinem Fortschritt.
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Offene Aufgaben aus den Informatik-Modulen beenden
+- [ ] Informatik Projekt finden
+- [ ] ...
+
+## Tagesplanungen 11.09.2026
+Heute muss ich mich nochmal an das Modul 320 dransetzten und das Kapitel 4 beenden und dann weiter mit dem Kapitel 5 machen.
+## Reflexion 11.09.2026
+Ich habe also heute mir die Polymorphie angeschaut und dann dementsprechend am Code gearbeitet. Ich habe das ganze tatsächlich schneller begriffen als gedacht. Ich dann auch weiter mit den anderen Aufgaben weitergemacht. Ich habe dann auch noch kurz das Kapitel 5 angefangen, mit den Abstrakten Klassen dabei hatte ich zwar Schwierigkeiten aber ich habe dann einfach den Alex und Joel gefragt die mir dann auch weiterhelfen konnten. Ich konnte heute Insgesamt vieles Erledigen, war auch nicht immer zu 100% bei der Sache aber ich konnte es aber dieses mal besser mit anderen arbeiten als allein da ich dann Unklarheiten direkt klären als das ich irgendwo steckenbleibe.
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Offene Aufgaben aus den Informatik-Modulen beenden
+- [ ] Informatik Projekt finden
+- [ ] ...
+
+
+## Tagesplanungen 18.09.2026
+Ich habe heute nochmals vor am Modul 320 zuarbeiten da wir nach den Ferien den schriftlichen Teil der Prüfung schreiben werden.
+## Reflexion 18.09.2026
+Ich habe heute also nochmal alles von vorne angeschaut, bin alles der reihe nachgegangen und habe mir die wichtigsten Sachen aufgeschrieben. Habe mich auch noch den anderen dazu ausgetauscht. Ich bin irgendwann einfach zur Probeprüfung rüber gegangen da ich mal schauen wollte wie ich so dran bin. Und habe dann relativ schnell gemerkt das ich noch einiges mir anschauen muss wobei ich aber immer so die häflte von der Aufgabe verstand aber die wie nicht mit einander verknüpfen konnte in einer art. Ich habe heute insgesamt meine Zeit effektiv nutzen können muss aber für die Prüfung wohl in den Ferien noch lernen...
+
+
